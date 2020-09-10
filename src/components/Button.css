@@ -1,0 +1,17 @@
+.submit {
+  background: #fff;
+  border: 1px solid darkgreen;
+  padding: 1rem 1.7rem;
+  color: darkgreen;
+  margin: 1rem;
+  border-radius: 100px;
+  font-size: 1.1rem;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background: darkgreen;
+  color: #fff;
+  transform: scale(1.07);
+}

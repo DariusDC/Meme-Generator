@@ -1,0 +1,21 @@
+.input {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  margin: 0.7rem auto;
+  max-width: 500px;
+}
+
+.input:nth-of-type(2) {
+  margin-top: 2rem;
+}
+
+.input input {
+  width: 100%;
+  padding: 0.7rem 1.5rem;
+  border: none;
+  background-color: #fff;
+  border: 2px solid lightgray;
+  border-radius: 15px;
+  outline: none;
+}

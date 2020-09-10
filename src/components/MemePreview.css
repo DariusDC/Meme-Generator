@@ -1,0 +1,14 @@
+.image {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.image img {
+  object-fit: contain;
+  margin: 0 auto;
+  padding: 2rem;
+  align-self: center;
+  width: 70%;
+  max-width: 700px;
+}
